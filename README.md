@@ -10,7 +10,7 @@
 <details>
   <summary>Видео работы программы</summary>
 
-  <video src='your URL here' width=180/>
+  <video src='https://raw.githubusercontent.com/LencoDigitexer/simon-game-vexiq/refs/heads/main/video.mp4' width=300/>
   
   
 </details>
